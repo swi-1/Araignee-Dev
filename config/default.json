@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://Fil:ubuntu69@ds137435.mlab.com:37435/heroku_dxnqs23q",
+    "jwtSecret": "mysecrettoken"
+}
